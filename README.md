@@ -9,17 +9,19 @@ Join me on this exhilarating adventure into the realm of Software Quality Assura
 - 💬 Ask me about manual testing, software testing, Postman, API testing, and web automation testing.
 - 📫 How to reach me: [ishtiaqueahmed1998@gmail.com](mailto:ishtiaqueahmed1998@gmail.com)
 - 📫 Connect with Me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ishtiaque-ahmed-tanim-5b01b31ab/)
-- ⚡ Fun fact: I love photography 
+- ⚡ Fun fact: I love photography
+  
 ## 🔧 Skills
 
 - Test Case and Report writing
 - Agile & Jira
 - Manual Testing
 - API Testing
+- Performance Testing using JMeter 
 - Mind Map with XMind
 - Load Testing with JMeter
 - Java Basics
-- Web Automation with Selenium & other Frameworks
+- Web Automation with Selenium & Playwright Frameworks
 - Mobile Automation with Appium Framework
 
 
