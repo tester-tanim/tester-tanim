@@ -10,7 +10,7 @@ Join me on this exhilarating adventure into the realm of Software Quality Assura
 - 📫 How to reach me: [ishtiaqueahmed1998@gmail.com](mailto:ishtiaqueahmed1998@gmail.com)
 - 📫 Connect with Me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ishtiaque-ahmed-tanim-5b01b31ab/)
 - ⚡ Fun fact: I love photography
-- <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/14757b41-26b9-4fb2-9a25-5a2f2d41f926" />Portfolio-https://tester-tanim.github.io/MyPortfolio/
+- <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/14757b41-26b9-4fb2-9a25-5a2f2d41f926" /> Portfolio-https://tester-tanim.github.io/MyPortfolio/
   
 ## 🔧 Skills
 
