@@ -1,34 +1,74 @@
-👋 Hello and welcome! I'm Ishtiaque Ahmed Tanim, a passionate software quality assurance professional committed to delivering high-quality software solutions.
+# 👋 Hi, I'm Ishtiaque Ahmed Tanim
 
-Join me on this exhilarating adventure into the realm of Software Quality Assurance. Together, let's unravel the mysteries, perfect the narratives, and ensure that the software we touch becomes a masterpiece of precision and quality.
+💡 **Junior Software Quality Assurance (SQA) Engineer** passionate about building reliable, high-performance applications through effective testing strategies.
 
-## 💫 About Me
+I focus on ensuring software quality by combining **manual testing expertise** with **modern automation frameworks** to deliver stable and user-friendly products.
 
-- 🔭 I’m currently working on mobile automation testing frameworks.
-- 🌱 I’m currently learning automation testing frameworks.
-- 💬 Ask me about manual testing, software testing, Postman, API testing, and web automation testing.
-- 📫 How to reach me: [ishtiaqueahmed1998@gmail.com](mailto:ishtiaqueahmed1998@gmail.com)
-- 📫 Connect with Me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ishtiaque-ahmed-tanim-5b01b31ab/)
-- ⚡ Fun fact: I love photography
-- <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/14757b41-26b9-4fb2-9a25-5a2f2d41f926" /> Portfolio-https://tester-tanim.github.io/MyPortfolio/
-  
-## 🔧 Skills
+---
 
-- Test Case and Report writing
-- Agile & Jira
-- Manual Testing
-- API Testing
-- Performance Testing using JMeter 
-- Mind Map with XMind
-- Load Testing with JMeter
-- Java Basics
-- Web Automation with Selenium & Playwright Frameworks
-- Mobile Automation with Appium Framework
+## 🔍 What I Do
 
+- 🧪 Design and execute **test cases & test plans**
+- 🤖 Build **automation frameworks** using Selenium & Playwright
+- 📱 Perform **mobile automation testing** using Appium & Maestro
+- 🔗 Perform **API testing** using Postman
+- ⚡ Conduct **performance & load testing** using JMeter
+- 🐞 Identify, document, and track defects efficiently
 
+---
 
+## 🛠 Tech Stack & Tools
 
+### 🚀 Automation
+![Selenium](https://img.shields.io/badge/Selenium-green?style=for-the-badge&logo=selenium)
+![Playwright](https://img.shields.io/badge/Playwright-black?style=for-the-badge&logo=playwright)
+![Appium](https://img.shields.io/badge/Appium-purple?style=for-the-badge&logo=appium)
+![Maestro](https://img.shields.io/badge/Maestro-blue?style=for-the-badge)
 
+### 🔗 API Testing
+![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
 
+### ⚡ Performance Testing
+![JMeter](https://img.shields.io/badge/JMeter-red?style=for-the-badge)
 
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![Java](https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=java)
 
+### 🧰 Tools
+![Jira](https://img.shields.io/badge/Jira-blue?style=for-the-badge&logo=jira)
+![XMind](https://img.shields.io/badge/XMind-orange?style=for-the-badge)
+
+---
+
+## 📌 Current Focus
+
+- 🚀 Improving **mobile automation frameworks (Appium & Maestro)**
+- 📚 Learning **advanced test architecture & scalable automation**
+- ⚙️ Exploring **CI/CD integration with automation testing**
+
+---
+
+## 📊 GitHub Stats
+
+![Tanim's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: ishtiaqueahmed1998@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ishtiaque-ahmed-tanim-5b01b31ab/)  
+- 🌐 [Portfolio](https://tester-tanim.github.io/MyPortfolio/)
+
+---
+
+## ⚡ Fun Fact
+
+📸 I enjoy photography in my free time
+
+---
+
+⭐ *“Quality is never an accident; it is always the result of intelligent effort.”*
