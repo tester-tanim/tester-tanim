@@ -33,7 +33,7 @@ I focus on ensuring software quality by combining **manual testing expertise** w
 
 ### 💻 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![Java](https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=java)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=java)
 
 ### 🧰 Tools
 ![Jira](https://img.shields.io/badge/Jira-blue?style=for-the-badge&logo=jira)
