@@ -61,7 +61,7 @@ I focus on ensuring software quality by combining **manual testing expertise** w
 
 - 📧 Email: ishtiaqueahmed1998@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/ishtiaque-ahmed-tanim-5b01b31ab/)  
-- 🌐 [Portfolio]([https://tester-tanim.github.io/MyPortfolio/](https://tester-tanim.github.io/MyPortfolio/))
+- 🌐 [Portfolio](https://tester-tanim.github.io/MyPortfolio/)
 
 ---
 
