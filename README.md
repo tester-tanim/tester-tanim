@@ -1,4 +1,3 @@
-```md
 # 👋 Hi, I'm Ishtiaque Ahmed Tanim
 
 💡 Junior Software Quality Assurance (SQA) Engineer with experience in manual, API, web, mobile, and automation testing. Passionate about delivering stable, scalable, and high-quality software products through effective testing strategies.
@@ -105,4 +104,3 @@
 ---
 
 ⭐ *“Quality is never an accident; it is always the result of intelligent effort.”*
-```
