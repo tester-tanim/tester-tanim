@@ -76,19 +76,6 @@
 - 🧠 Expanding knowledge in performance and security testing
 
 ---
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=tester-tanim&show_icons=true&theme=radical)
-
-![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=tester-tanim&theme=radical)
-
-![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tester-tanim&layout=compact&theme=radical)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tester-tanim&theme=react-dark)
-
----
-
 ## 📫 Connect With Me
 
 - 📧 Email: ishtiaqueahmed1998@gmail.com
