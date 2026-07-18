@@ -79,7 +79,7 @@
 ## 📫 Connect With Me
 
 - 📧 Email: ishtiaqueahmed1998@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/ishtiaque-ahmed-tanim-5b01b31ab/
+- 💼 LinkedIn: https://www.linkedin.com/in/ishtiaque2/
 - 🌐 Portfolio: https://tester-tanim.github.io/MyPortfolio/
 
 ---
