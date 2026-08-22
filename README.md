@@ -80,7 +80,7 @@
 
 - 📧 Email: ishtiaqueahmed1998@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/ishtiaque2/
-- 🌐 Portfolio: https://tester-tanim.github.io/MyPortfolio/
+- 🌐 Portfolio: [https://tester-tanim.github.io/MyPortfolio/](https://tanimqa.vercel.app/)
 
 ---
 
