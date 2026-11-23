@@ -2,7 +2,7 @@
 
 💡 Software Quality Assurance (SQA) Engineer with experience in manual, API, web, mobile, and automation testing. Passionate about delivering stable, scalable, and high-quality software products through effective testing strategies.
 
-💼 Currently working as a Junior SQA Engineer at AKIJ iBOS Limited
+💼 Currently working as a SQA Engineer at AKIJ iBOS Limited
 
 ---
 
